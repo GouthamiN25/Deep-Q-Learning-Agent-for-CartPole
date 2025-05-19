@@ -51,13 +51,3 @@ pip install gym numpy matplotlib torch
 ```
 
 Run the notebook in Jupyter or Google Colab.
-
-## 🙋‍♀️ Author
-
-**Gouthami Nadupuri**  
-[GitHub Profile](https://github.com/GouthamiN25)  
-[LinkedIn](https://www.linkedin.com/in/gouthami-nadupuri)
-
----
-
-⭐ If you found this helpful, please star the repo!
