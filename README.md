@@ -8,11 +8,11 @@ Train an agent that learns the optimal policy to keep the pole balanced for as l
 
 ## Key Features
 
-- ✅ Uses **Deep Q-Network (DQN)** with PyTorch
-- ✅ Implements **experience replay** using Python `deque`
-- ✅ Utilizes **ε-greedy policy** for exploration/exploitation
-- ✅ Tracks agent performance with reward curves
-- ✅ Includes model training and evaluation pipeline
+-  Uses **Deep Q-Network (DQN)** with PyTorch
+-  Implements **experience replay** using Python `deque`
+-  Utilizes **ε-greedy policy** for exploration/exploitation
+-  Tracks agent performance with reward curves
+-  Includes model training and evaluation pipeline
 
 ## Technologies Used
 
