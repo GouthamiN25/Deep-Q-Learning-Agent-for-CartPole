@@ -36,7 +36,7 @@ Train an agent that learns the optimal policy to keep the pole balanced for as l
 
 The agent gradually learns to improve its performance over episodes. A well-trained agent should consistently achieve near the maximum reward of 500 per episode.
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 CartPole_RL_Project.ipynb     # Main notebook with code and results
